@@ -3,7 +3,12 @@
 
 main.ipynb - предобработка данных
 
-Presentation.pptx - презентация
+model.ipynb - модель №1, нейросеть
 
-model.ipynb - модель
+modelCatBoost.ipynb - модель №2, улучшенная модель на основе градиетного бустинга
+
+IntroductionPresentation.pptx - презентация первого этапа
+
+SecondPresentation.pptx - презентация второго этапа
+
 
